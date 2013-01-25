@@ -1,5 +1,7 @@
 body            { margin-left:     2em; 
-                  margin-right:    2em; }
+                  margin-right:    2em; 
+                  width:           8.5in;
+                                             }
 h1              { text-align:      left;
                   font-weight:     bold;
                   margin-top:     .5em;
